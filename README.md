@@ -4,8 +4,8 @@ jquery.itemSlider.js
 By Chris Pappas <chris@nexventures.com>
 ---------------------------------------
 
-Version:  0.1
-Requirements: jQuery 1.6+ (may work with lower!)
+* Version:  0.1
+* Requirements: jQuery 1.6+ (may work with lower!)
 
 A simple jQuery plugin to rotate items contained within another element.
 
