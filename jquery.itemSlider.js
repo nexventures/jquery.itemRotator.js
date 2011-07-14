@@ -1,7 +1,7 @@
 /**
  *  jQuery rotator for a containing element with children
  *    - it rotates all children elements of the container using nice customizable effects
- *  @author Chris Pappas <cpappas@hepcom.ca>
+ *  @author Chris Pappas <chris@nexventures.com>
  *  @version 0.1
  */
 ;
